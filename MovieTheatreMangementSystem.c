@@ -1,4 +1,4 @@
-/* Betim Hodza 1001928702*/
+/* Betim Hodza*/
 #include <stdio.h>
 #include <string.h>
 #include <stdlib.h>
