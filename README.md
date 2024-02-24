@@ -24,8 +24,14 @@ This implements stacks, queues, Binary Search Trees, and Linked Lists!
 gh repo clone Betim-Hodza/Movie-Theater-Management-System
 cd Movie-Theater-Management-System
 make
-./MovieTheatreMangementSystem.e
+./MovieTheatreMangementSystem.e QUEUE=queue.txt ZIPFILE=zip.txt RECEIPTNUMBER=1100
 ```
+![image](https://github.com/Betim-Hodza/Movie-Theater-Management-System/assets/106614572/2f608997-c44a-4615-8b5b-533eb67bc1cd)
+![image](https://github.com/Betim-Hodza/Movie-Theater-Management-System/assets/106614572/9a197f0c-a66e-49f8-8a19-06cb07d89913)
+![image](https://github.com/Betim-Hodza/Movie-Theater-Management-System/assets/106614572/a0ddb209-ef0d-435d-9988-4dc37d9a4de8)
+![image](https://github.com/Betim-Hodza/Movie-Theater-Management-System/assets/106614572/422d45b5-0382-4c62-98f1-4612abb2bf5a)
+![image](https://github.com/Betim-Hodza/Movie-Theater-Management-System/assets/106614572/f26cd463-eba0-42f2-80d7-0484224a67b1)
+
 
 ## Authors
 
